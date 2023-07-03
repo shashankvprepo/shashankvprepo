@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Shashank Patil
 
-- 🧑‍🎓 Graduate Information SYstems graduate student at University of Maryland
-- 🕵️‍♂️ Currently busy digging through data and to derive business value
+- 🧑‍🎓 Information Systems graduate student at University of Maryland
+- 🕵️‍♂ Currently busy digging through data to derive business value
 - ⚒️ Do check out my work on Kaggle: https://www.kaggle.com/shashankvpatil
 - 🖼️ Well, if you would like to have a glance at my piece of art,
      drop by at my Tableau profile: https://public.tableau.com/app/profile/shashankvp
